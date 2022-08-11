@@ -1,2 +1,3 @@
-Mensaje 3: Hola sala 11
-Estoy aprendiendo git
+Mensaje 3: Hola sala 11.
+Estoy aprendiendo a manejar Figma
+
